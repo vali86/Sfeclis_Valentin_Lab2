@@ -20,6 +20,8 @@ namespace Sfeclis_Valentin_Lab2
     /// </summary>
     public partial class MainWindow : Window
     {
+        private DoughnutMachine myDoughnutMachine;
+
         public MainWindow()
         {
             InitializeComponent();
